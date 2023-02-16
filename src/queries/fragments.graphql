@@ -4,6 +4,7 @@ fragment User on users {
   name
   email
   image
+  username
   emailVerified
 }
 
